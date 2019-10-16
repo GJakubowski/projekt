@@ -1,0 +1,38 @@
+{
+  "books": [{
+      "id": 1,
+      "title": "Pan Tadeusz",
+      "author": "Adam Mickiewicz",
+      "description": "Opis ksiazki wskrocie"
+    },
+    {
+      "title": "Pan Tadeusz",
+      "author": "Adam Mickiewicz",
+      "description": "Lektura szkolna",
+      "id": 2
+    },
+    {
+      "title": "Bema pamięci żałobny rapsod",
+      "author": "Bema pamięci żałobny rapsod",
+      "description": "Dzieło poprzedza cytat autorstwa Hannibala: Przysięgę złożoną ojcu aż po dzień dzisiejszy tak zachowałem…, wyrażający podziw i szacunek Norwida dla polskiego generała"
+    },
+    {
+      "title": "Boska Komedia",
+      "author": "Dante Alighieri",
+      "description": "Utwór jest w całości napisany po włosku. Wydarzenia Boskiej Komedii rozgrywają się w 1300 r. Akcja rozpoczyna się w nocy z 7 na 8 kwietnia – w okresie Wielkiego Postu (z Wielkiego Czwartku na Wielki Piątek). Wszystkie wydarzenia rozgrywają się w zaświatach, które zgodnie z religią chrześcijańską są trzema obszarami: Piekła, Czyśćca i Raju. Boska Komedia jest tryptykiem – składa się z trzech ksiąg (cantiche), każdą część tworzą 33 pieśni (wł. canti) (co daje 99 pieśni, a wraz z pieśnią wstępną –100), zaś każda z nich pisana jest tercyną –strofą trzywersową.",
+      "id": 4
+    },
+    {
+      "title": "Chłopi, Część druga – Zima",
+      "author": "Władysław Stanisław Reymont",
+      "description": "Akcja powieści rozgrywa się na początku lat 80-tych XIX wieku, najprawdopodobniej na przełomie 1883/1884 roku.Powieść ukazuje życie społeczności wsi Lipce (obecnie Lipce Reymontowskie) na przestrzeni czterech pór roku. Ramy powieści tworzy rytm natury scalony z rytmem obrzędowo-liturgicznym, związanym zarówno z kalendarzem katolickim jak i kalendarzem przyrody (akcja utworu obejmuje 10 miesięcy – rozpoczyna się pod koniec września, a kończy pod koniec lipca). W każdej z części znajdują się opisy charakterystycznych dla tego okresu świąt religijnych.",
+      "id": 5
+    },
+    {
+      "title": "Grób Agamemnona",
+      "author": "Juliusz Słowacki",
+      "description": "Grób Agamemnona, inc. Niech fantastycznie lutnia nastrojona… – stanowi część utworu Podróż do Ziemi Świętej z Neapolu. W wierszu obraz Polski i Polaków jest przeciwstawiony wyidealizowanej wizji historii starożytnej Grecji. Odwołanie do elementów kultury antycznej jest punktem wyjścia do refleksji nad losem Polski oraz wezwania Polaków do odbudowy moralnej i politycznej narodu. Utwór podzielony jest na dwie części.",
+      "id": 6
+    }
+  ]
+}
