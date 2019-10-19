@@ -1,0 +1,79 @@
+$colorBg:blue;
+
+@mixin header {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+@mixin nav {
+    background-color: $colorBg;
+    text-align: left;
+    height: 60px;
+    padding: 20px;
+}
+
+@mixin menu {
+    list-style-type: none;
+    margin: 0px;
+    padding: 10px;
+    font-size: 18px;
+    min-height: 40px;
+    line-height: 100%;
+}
+
+@mixin li {
+    display: inline-block;
+    font-size: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-right: 1px dashed #0a2b42;
+}
+
+@mixin a {
+    color: white;
+    text-decoration: none;
+}
+
+@mixin h1 {
+    color: $colorBg;
+    text-align: center;
+    font-size: 40px;
+    letter-spacing: 5px;
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+
+@mixin viewgroup {
+
+    .text {
+        border: 2px solid blue;
+    }
+}
+
+@mixin grid-container {
+    display: grid;
+    grid-gap: 15px;
+    grid-template-columns: auto auto auto;
+    background-color: white;
+    padding: 5px;
+    margin-left: 20px;
+    margin-right: 20px;
+
+    selektor {
+        border-bottom-left-radius: to-upper-case($string: "")
+    }
+
+    @mixin grid-item {
+        height: 500px;
+        background-color: rgba(255, 255, 255, 0.8);
+        border: 5px solid blue;
+        padding: 40px 0;
+        font-size: 40px;
+        text-align: center;
+    }
+
+    //     border-top-right-radius: 50px 50px;
+    //     border-bottom-right-radius: 50px 50px;
+    //     border-top-left-radius: 50px 50px;
+    //     border-bottom-left-radius: 50px 50px;

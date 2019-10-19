@@ -1,8 +1,9 @@
 {
-  "books": [{
+  "books": [
+    {
       "id": 1,
-      "title": "Pan Tadeusz",
-      "author": "Adam Mickiewicz",
+      "title": "Janko Muzykant",
+      "author": "Henryk Sienkiewicz",
       "description": "Opis ksiazki wskrocie"
     },
     {
@@ -13,7 +14,7 @@
     },
     {
       "title": "Bema pamięci żałobny rapsod",
-      "author": "Bema pamięci żałobny rapsod",
+      "author": "Cyprian Kamil Norwid",
       "description": "Dzieło poprzedza cytat autorstwa Hannibala: Przysięgę złożoną ojcu aż po dzień dzisiejszy tak zachowałem…, wyrażający podziw i szacunek Norwida dla polskiego generała"
     },
     {
@@ -33,6 +34,30 @@
       "author": "Juliusz Słowacki",
       "description": "Grób Agamemnona, inc. Niech fantastycznie lutnia nastrojona… – stanowi część utworu Podróż do Ziemi Świętej z Neapolu. W wierszu obraz Polski i Polaków jest przeciwstawiony wyidealizowanej wizji historii starożytnej Grecji. Odwołanie do elementów kultury antycznej jest punktem wyjścia do refleksji nad losem Polski oraz wezwania Polaków do odbudowy moralnej i politycznej narodu. Utwór podzielony jest na dwie części.",
       "id": 6
+    },
+    {
+      "title": "Kordian",
+      "author": "Juliusz Słowacki",
+      "description": "Dokładny tytuł brzmi: Kordian. Część pierwsza trylogii. Spisek koronacyjny, mimo że część druga nie powstała, a część trzecia (zapowiedziana w katalogu księgarni Januszkiewicza) została najprawdopodobniej zniszczona przez autora. Przyjęło się użycie dla części pierwszej, tytułu całej trylogii. Akcja utworu rozgrywa się początkowo w noc sylwestrową 1799 roku (Przygotowanie), ale akt II sytuowany jest w roku 1828. Miejscem akcji jest między innymi Londyn (James Park), Dover, willa włoska, Rzym, Mont Blanc oraz Warszawa. Utwór nawiązuje do powstania listopadowego i opisuje historię nieudanego spisku na życie cara Mikołaja I. Główny bohater – Kordian, ze względu na wewnętrzną słabość, nie jest w stanie pokonać zamachu i car uchodzi z życiem. Słowacki próbuje zrozumieć przyczyny klęski powstania oraz tragizm pokolenia powstańców. Uważa, że jedynie absolutne poświęcenie i zgoda na walkę do końca może przynieść niepodległość. Kordian uważany jest za próbę rozrachunku Słowackiego z moralnymi i politycznymi problemami Polaków po 1830 r. Stanowi też udaną polemikę na gruncie ideowo-artystycznym z innym wieszczem narodowym – Adamem Mickiewiczem.",
+      "id": 7
+    },
+    {
+      "title": "Moralność pani Dulskiej",
+      "author": "Gabriela Zapolska",
+      "description": "Akcja utworu rozgrywa się na początku XX w. w mieszkaniu Dulskich we Lwowie (istnieje również wersja krakowska tej sztuki). Głównym problemem utworu jest kryzys moralności mieszczańskiej. Zapolska pokazała rodzinę mieszczańską, która tylko na pozór żyje godnie i uczciwie. Autorka przedstawiła obłudę, egoizm, prymitywizm myślowy, skąpstwo i brak szacunku do innych. Główna bohaterka – Aniela Dulska, jest osobą dwulicową, fałszywą, nie potrafi okazać życzliwości, gardzi ludźmi biednymi z niższych warstw społecznych i wrażliwymi. Pani Dulska toleruje, np. uwiedzenie służącej przez syna dbając jedynie o to, by fakty nie zostały ujawnione. Trafność charakterystyki sprawiła, że w języku potocznym powstał termin dulszczyzna jako synonim zakłamania i obłudy. Sztuka Zapolskiej jest tragifarsą, czyli połączeniem elementów komedii z elementami tragedii.",
+      "id": 8
+    },
+    {
+      "title": "Lalka",
+      "author": "Bolesław Prus",
+      "description": "W okresie dwudziestolecia międzywojennego Lalka została uznana za klasyczną powieść pozytywizmu i wpisana na listę lektur. Powieść cenili także badacze i pisarze okresu – chwaliła ją Zofia Nałkowska, a Jan Lechoń porównywał powieść Prusa do utworów Josepha Conrada. Pojawiły się też ówcześnie liczne prace teoretyczne poświęcone tej powieści (m.in. monograficzne opracowanie Zygmunta Szweykowskiego, pt. Lalka Bolesława Prusa).",
+      "id": 9
+    },
+    {
+      "title": "Odprawa posłów greckich",
+      "author": "Jan Kochanowski",
+      "description": "Odprawa posłów greckich jest pierwszym polskim nowożytnym dramatem.  Zdarzenia przedstawione w utworze dotyczą jednego niewielkiego epizodu z historii wojny trojańskiej, tj., opisu greckiego poselstwa wysłanego do Troi w przeddzień wojny. Los Troi zależy od starcia dwóch skrajnie odmiennych postaw obywatelskich: demagogicznej, nastawionej na zaspokojenie własnych potrzeb (reprezentant-Parys) oraz rozważnej, mającej na uwadze przede wszystkim dobro państwa (reprezentant-Antenor). Utwór ma charakter moralnego pouczenia obywateli o ważności postaw etycznych wobec spraw państwowych.",
+      "id": 10
     }
   ]
 }

@@ -1,0 +1,33 @@
+@import 'setings';
+
+body {
+    header {
+        nav {
+            @include nav;
+
+            .menu {
+                li {
+                    @include li;
+                }
+
+                a {
+                    @include a;
+                }
+            }
+        }
+    }
+
+    h1 {
+        @include h1;
+    }
+
+    .grid-container {
+        @include grid-container;
+
+        .grid-item {
+            @include grid-item;
+        }
+
+    }
+
+}
