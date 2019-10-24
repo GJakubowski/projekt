@@ -1,3 +1,5 @@
+add<!-- NODE MODULS : npm i  -->
+
 <!-- ODPALAM BAZE PRZEZ WPISANIE : json-server --watch db.json -->
 <!-- BAZA JEST MUKOWANA NA json-server
 odpalamy poleceniem -->
@@ -6,3 +8,5 @@ odpalamy poleceniem -->
 <!-- git add.
 commit -m "komentarz"
 git push -->
+
+
